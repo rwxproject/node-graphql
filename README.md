@@ -1,1 +1,1 @@
-# node-graphql
+# GraphQL Example
